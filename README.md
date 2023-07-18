@@ -1,8 +1,8 @@
-# Super Store Inventory Management system
+# Inventory Management system
 
 ## Description
 
-This is a project to aid stores and warehouses manage their products stock and keep track of sales. The program was written in Java and the data persisted in a MySQL database.
+This is a project by George Kofi Ohene-Adjei for DCIT 308 to help stores and warehouses manage their products stock and keep track of sales as. The program was written in Java and JavaFx. The data persisted in a MySQL database.
 Different categories of products are stored in different data structures.
 
 ### Categories
@@ -179,8 +179,7 @@ SuperStore
 ### Requirements
 
 - MySQL Server
-- Eclipse Java IDE
-  - E(fx)clipse plugin
+- intellij idea community edition
 - JDK 18
 - JavaFX 18 SDK
 
@@ -196,20 +195,6 @@ SuperStore
 
 Run the projet using the run configurations created in step 5 of [Installation](#installation)
 
-## Authors and Acknowledgement
-
-- Joshua Delali Agbozo
-- Prince Kwabena Boateng
-- Solomon Yaw Nnyamile
-- Francis Echesi
-- Nana Krofua Mensah Onumah
-- Yaa Dufie Quansah
-- Lawrence Yirenkyi-Boafo Jnr
-
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
-
-## Project Status
-
-This project is an end of semester deliverable for DCIT 308 and may no longer be manitained by the authors post-grading. Open to forks and volunteers.
